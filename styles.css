@@ -1,0 +1,21 @@
+table {
+  border: 1px solid black;
+  border-spacing: 0px;
+}
+
+th {
+  padding: 10px;
+  color: white;
+  background-color: gray;
+  border: 1px solid black;
+}
+
+td {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+}
+
+.grey_col {
+  background-color: #EEEEEE(161, 158, 158);
+}
